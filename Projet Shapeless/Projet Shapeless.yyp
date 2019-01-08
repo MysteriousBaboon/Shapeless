@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "11dcf951-0a3a-46c8-97e5-0743036134e2",
+            "Value": {
+                "id": "497c7e6c-8069-4d78-9e21-b117992e81b2",
+                "resourcePath": "sprites\\Spr_brick\\Spr_brick.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "16a48787-702b-4415-a0b4-3ab68783089c",
             "Value": {
                 "id": "c2791039-45e8-49cf-a726-cf67f2313c65",
@@ -378,7 +386,7 @@
             "Key": "422e4f89-a46a-40b0-9f8d-6629bbae903b",
             "Value": {
                 "id": "bac908e4-a4de-44ce-b1b6-1a8f16b8fbeb",
-                "resourcePath": "rooms\\room5\\room5.yy",
+                "resourcePath": "rooms\\roomTestBricks\\roomTestBricks.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -740,6 +748,14 @@
                 "id": "38a547b7-b1f2-4475-bbc0-97f759ce7de9",
                 "resourcePath": "objects\\obj_sierpinski\\obj_sierpinski.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8227ee5c-df2c-4370-9beb-57c665301812",
+            "Value": {
+                "id": "a33f87da-7140-4bcc-863e-abd252c36166",
+                "resourcePath": "rooms\\room9\\room9.yy",
+                "resourceType": "GMRoom"
             }
         },
         {

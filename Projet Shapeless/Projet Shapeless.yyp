@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "2383dbfc-6cae-49a5-b840-bdf464ec9296",
+            "Value": {
+                "id": "777cbcad-05c0-4bb8-8ed5-94843291eaaa",
+                "resourcePath": "objects\\Obj_Titlescreen_Fight\\Obj_Titlescreen_Fight.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "23c31fee-2264-4031-ad75-ec0234b6f71e",
             "Value": {
                 "id": "a760c3ce-c8a5-4c0e-8275-86a1c90d5436",

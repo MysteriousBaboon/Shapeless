@@ -5,7 +5,8 @@
     "name": "95f61ba5-1b12-4d44-b85a-5d444b2db82f",
     "children": [
         "9a057dbe-41ad-467e-aae1-e931a82a9993",
-        "60362d1f-347e-4194-8c85-47ca79f5fda1"
+        "60362d1f-347e-4194-8c85-47ca79f5fda1",
+        "2383dbfc-6cae-49a5-b840-bdf464ec9296"
     ],
     "filterType": "GMObject",
     "folderName": "TitleScreen",

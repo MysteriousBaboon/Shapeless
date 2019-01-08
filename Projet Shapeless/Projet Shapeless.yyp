@@ -743,6 +743,14 @@
             }
         },
         {
+            "Key": "82627e68-b585-49a2-8101-307635d2fa0f",
+            "Value": {
+                "id": "8bbb5c2e-d188-4d94-b2fb-2c10f8463849",
+                "resourcePath": "sprites\\Git02\\Git02.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "84fd3034-f6f7-4793-afd6-2d82c54b39a3",
             "Value": {
                 "id": "bcfd5ec0-8d24-4bc0-81c1-130a55ab772e",

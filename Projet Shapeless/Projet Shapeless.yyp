@@ -151,14 +151,6 @@
             }
         },
         {
-            "Key": "2383dbfc-6cae-49a5-b840-bdf464ec9296",
-            "Value": {
-                "id": "777cbcad-05c0-4bb8-8ed5-94843291eaaa",
-                "resourcePath": "objects\\Obj_Titlescreen_Fight\\Obj_Titlescreen_Fight.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "23c31fee-2264-4031-ad75-ec0234b6f71e",
             "Value": {
                 "id": "a760c3ce-c8a5-4c0e-8275-86a1c90d5436",
@@ -857,9 +849,15 @@
         {
             "Key": "a0454ebe-68f8-4aa2-925a-657a5b1168ad",
             "Value": {
+<<<<<<< HEAD
                 "id": "0fd3156c-6cab-4c65-8c21-d13674464b1c",
                 "resourcePath": "tilesets\\tileset01\\tileset01.yy",
                 "resourceType": "GMTileSet"
+=======
+                "id": "7eb91cd7-15b4-4baf-90fe-0cc086cd2c82",
+                "resourcePath": "views\\9dbe6aa0-af19-4b68-a311-e9124a8380c0.yy",
+                "resourceType": "GMFolder"
+>>>>>>> parent of 87e9aa3... Merge branch 'master' of https://github.com/MysteriouBaboon/Shapeless
             }
         },
         {
@@ -1135,14 +1133,6 @@
             }
         },
         {
-            "Key": "cb509d53-35ac-4e01-8a30-51a85486b38a",
-            "Value": {
-                "id": "2102925c-d021-49aa-8deb-3c2526942a04",
-                "resourcePath": "sprites\\Spr_Brick\\Spr_Brick.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "9c49b389-1da5-4473-8f18-7f595e0e4879",
@@ -1252,14 +1242,6 @@
                 "id": "2e546c89-6139-4c60-b049-7ac42c37cae4",
                 "resourcePath": "sprites\\Spr_BadShape1\\Spr_BadShape1.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "e110b6b2-58d0-4f26-8ecd-5d683178099b",
-            "Value": {
-                "id": "e8e2c11a-7d20-493f-b478-b4736664e9aa",
-                "resourcePath": "rooms\\test\\test.yy",
-                "resourceType": "GMRoom"
             }
         },
         {

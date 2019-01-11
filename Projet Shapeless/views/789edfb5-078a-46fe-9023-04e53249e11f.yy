@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 {
     "id": "789edfb5-078a-46fe-9023-04e53249e11f",
     "modelName": "GMFolder",
@@ -24,6 +25,8 @@
     "isDefaultView": false,
     "localisedFolderName": ""
 =======
+=======
+>>>>>>> parent of 87e9aa3... Merge branch 'master' of https://github.com/MysteriouBaboon/Shapeless
 {
     "id": "789edfb5-078a-46fe-9023-04e53249e11f",
     "modelName": "GMFolder",
@@ -42,12 +45,19 @@
         "e2ded5e3-1d3a-4042-b094-610031a0693c",
         "e7fe61a0-7628-4cab-adad-119981e8de08",
         "e7c3a3b4-1850-4ca5-b07c-c4d504097a27",
+<<<<<<< HEAD
         "c2adcd07-4693-409f-81a0-0cb0408a5d25",
         "69475148-2169-475a-9475-f8f6457e58de"
+=======
+        "c2adcd07-4693-409f-81a0-0cb0408a5d25"
+>>>>>>> parent of 87e9aa3... Merge branch 'master' of https://github.com/MysteriouBaboon/Shapeless
     ],
     "filterType": "GMSprite",
     "folderName": "Weapon",
     "isDefaultView": false,
     "localisedFolderName": ""
+<<<<<<< HEAD
 >>>>>>> parent of 1f6e14c... First Proprer Push for our Project
+=======
+>>>>>>> parent of 87e9aa3... Merge branch 'master' of https://github.com/MysteriouBaboon/Shapeless
 }

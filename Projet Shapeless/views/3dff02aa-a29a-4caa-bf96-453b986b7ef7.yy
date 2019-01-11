@@ -14,6 +14,7 @@
         "4a28b90d-b0ea-4272-9e62-b072589db3ba",
         "8be18e88-88d9-45ab-822b-72669e4067ab",
 <<<<<<< HEAD
+<<<<<<< HEAD
         "301d5e34-3139-4705-928b-7eb8380bac8b",
         "9e01eac4-9c2f-4207-ba78-d62457321562"
 =======
@@ -26,6 +27,9 @@
         "c0054be1-e398-48e4-846c-e76aa828386f",
         "82627e68-b585-49a2-8101-307635d2fa0f"
 >>>>>>> parent of 1f6e14c... First Proprer Push for our Project
+=======
+        "301d5e34-3139-4705-928b-7eb8380bac8b"
+>>>>>>> parent of 87e9aa3... Merge branch 'master' of https://github.com/MysteriouBaboon/Shapeless
     ],
     "filterType": "GMSprite",
     "folderName": "sprites",

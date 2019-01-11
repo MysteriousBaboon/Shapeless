@@ -1,1 +1,0 @@
-Thrust = false;

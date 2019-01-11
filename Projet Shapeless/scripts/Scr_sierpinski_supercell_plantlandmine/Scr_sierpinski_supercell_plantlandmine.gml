@@ -1,1 +1,0 @@
-if (instance_number(obj_sierpinski_landmine) < 5 and (unity0.isFixed or unity1.isFixed or unity2.isFixed)) instance_create_layer(x, y, layer, obj_sierpinski_landmine)

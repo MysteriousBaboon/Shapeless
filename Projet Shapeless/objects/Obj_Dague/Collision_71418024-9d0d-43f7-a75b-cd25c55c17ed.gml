@@ -1,1 +1,0 @@
-other.Health -= 7;

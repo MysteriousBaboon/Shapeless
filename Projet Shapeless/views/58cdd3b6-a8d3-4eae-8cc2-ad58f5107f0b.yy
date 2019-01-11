@@ -1,6 +1,5 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 {
     "id": "58cdd3b6-a8d3-4eae-8cc2-ad58f5107f0b",
     "modelName": "GMFolder",
@@ -25,8 +24,6 @@
 =======
 =======
 >>>>>>> parent of 87e9aa3... Merge branch 'master' of https://github.com/MysteriouBaboon/Shapeless
-=======
->>>>>>> parent of e024162... block + room
 {
     "id": "58cdd3b6-a8d3-4eae-8cc2-ad58f5107f0b",
     "modelName": "GMFolder",
@@ -40,13 +37,10 @@
         "ab101af8-3ec9-4168-9717-253b10774f43",
         "95f61ba5-1b12-4d44-b85a-5d444b2db82f",
         "31ff1b4f-ffe7-4813-9360-883477c4468f",
-<<<<<<< HEAD
 <<<<<<< HEAD
         "4a2bc3a4-4bbe-489f-a7d8-866db309437e",
 =======
 >>>>>>> parent of 87e9aa3... Merge branch 'master' of https://github.com/MysteriouBaboon/Shapeless
-=======
->>>>>>> parent of e024162... block + room
         "450f54eb-5bd0-4f23-9246-ea3d3383b973",
         "55275415-3c6d-4c83-8417-a82cd9095178",
         "98d20b70-f1da-436d-82d9-9b6467581e97"
@@ -56,10 +50,7 @@
     "isDefaultView": false,
     "localisedFolderName": "ResourceTree_Objects"
 <<<<<<< HEAD
-<<<<<<< HEAD
 >>>>>>> parent of 1f6e14c... First Proprer Push for our Project
 =======
 >>>>>>> parent of 87e9aa3... Merge branch 'master' of https://github.com/MysteriouBaboon/Shapeless
-=======
->>>>>>> parent of e024162... block + room
 }

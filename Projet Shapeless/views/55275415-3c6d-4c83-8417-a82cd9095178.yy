@@ -1,5 +1,8 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 22a4ad2... p
 {
     "id": "55275415-3c6d-4c83-8417-a82cd9095178",
     "modelName": "GMFolder",
@@ -19,6 +22,7 @@
     "folderName": "Enemies",
     "isDefaultView": false,
     "localisedFolderName": ""
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> parent of 87e9aa3... Merge branch 'master' of https://github.com/MysteriouBaboon/Shapeless
@@ -56,4 +60,6 @@
 >>>>>>> parent of 1f6e14c... First Proprer Push for our Project
 =======
 >>>>>>> parent of 87e9aa3... Merge branch 'master' of https://github.com/MysteriouBaboon/Shapeless
+=======
+>>>>>>> parent of 22a4ad2... p
 }

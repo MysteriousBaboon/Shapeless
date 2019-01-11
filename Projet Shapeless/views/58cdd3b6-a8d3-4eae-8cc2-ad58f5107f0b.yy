@@ -1,5 +1,8 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 22a4ad2... p
 {
     "id": "58cdd3b6-a8d3-4eae-8cc2-ad58f5107f0b",
     "modelName": "GMFolder",
@@ -21,6 +24,7 @@
     "folderName": "objects",
     "isDefaultView": false,
     "localisedFolderName": "ResourceTree_Objects"
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> parent of 87e9aa3... Merge branch 'master' of https://github.com/MysteriouBaboon/Shapeless
@@ -53,4 +57,6 @@
 >>>>>>> parent of 1f6e14c... First Proprer Push for our Project
 =======
 >>>>>>> parent of 87e9aa3... Merge branch 'master' of https://github.com/MysteriouBaboon/Shapeless
+=======
+>>>>>>> parent of 22a4ad2... p
 }

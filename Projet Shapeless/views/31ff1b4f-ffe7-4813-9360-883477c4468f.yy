@@ -1,5 +1,8 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 22a4ad2... p
 {
     "id": "31ff1b4f-ffe7-4813-9360-883477c4468f",
     "modelName": "GMFolder",
@@ -19,6 +22,7 @@
     "folderName": "Cinematic",
     "isDefaultView": false,
     "localisedFolderName": ""
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> parent of 87e9aa3... Merge branch 'master' of https://github.com/MysteriouBaboon/Shapeless
@@ -49,4 +53,6 @@
 >>>>>>> parent of 1f6e14c... First Proprer Push for our Project
 =======
 >>>>>>> parent of 87e9aa3... Merge branch 'master' of https://github.com/MysteriouBaboon/Shapeless
+=======
+>>>>>>> parent of 22a4ad2... p
 }

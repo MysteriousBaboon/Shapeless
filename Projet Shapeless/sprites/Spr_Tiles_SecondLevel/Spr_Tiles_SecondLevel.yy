@@ -2,7 +2,7 @@
     "id": "8be18e88-88d9-45ab-822b-72669e4067ab",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "Sprite_Tiles2",
+    "name": "Spr_Tiles_SecondLevel",
     "For3D": false,
     "HTile": false,
     "VTile": false,

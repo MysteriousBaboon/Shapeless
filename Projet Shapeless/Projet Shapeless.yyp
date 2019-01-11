@@ -874,6 +874,7 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "9e01eac4-9c2f-4207-ba78-d62457321562",
             "Value": {
                 "id": "d8be20b6-2f00-4da1-a94b-d0a57db49bbe",
@@ -883,6 +884,8 @@
             }
         },
         {
+=======
+>>>>>>> parent of 87e9aa3... Merge branch 'master' of https://github.com/MysteriouBaboon/Shapeless
             "Key": "a0754aec-ef34-4486-9a0c-0550bbe7e0e4",
             "Value": {
                 "id": "b873c7ca-72f1-41f6-907f-b0e9f3bb5405",

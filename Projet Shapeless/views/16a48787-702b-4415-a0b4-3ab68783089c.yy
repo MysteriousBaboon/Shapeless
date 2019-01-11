@@ -1,6 +1,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 87e9aa3... Merge branch 'master' of https://github.com/MysteriouBaboon/Shapeless
 {
     "id": "16a48787-702b-4415-a0b4-3ab68783089c",
     "modelName": "GMFolder",
@@ -23,6 +26,7 @@
     "folderName": "Weapons",
     "isDefaultView": false,
     "localisedFolderName": ""
+<<<<<<< HEAD
 =======
 {
     "id": "16a48787-702b-4415-a0b4-3ab68783089c",
@@ -95,4 +99,6 @@
     "isDefaultView": false,
     "localisedFolderName": ""
 >>>>>>> parent of eba9d4a... Prout
+=======
+>>>>>>> parent of 87e9aa3... Merge branch 'master' of https://github.com/MysteriouBaboon/Shapeless
 }

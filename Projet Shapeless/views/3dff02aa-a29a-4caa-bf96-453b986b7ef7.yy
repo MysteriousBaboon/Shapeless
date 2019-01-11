@@ -16,6 +16,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "301d5e34-3139-4705-928b-7eb8380bac8b",
         "9e01eac4-9c2f-4207-ba78-d62457321562"
 =======
@@ -35,6 +36,9 @@
         "301d5e34-3139-4705-928b-7eb8380bac8b",
         "9e01eac4-9c2f-4207-ba78-d62457321562"
 >>>>>>> parent of 22a4ad2... p
+=======
+        "301d5e34-3139-4705-928b-7eb8380bac8b"
+>>>>>>> parent of 87e9aa3... Merge branch 'master' of https://github.com/MysteriouBaboon/Shapeless
     ],
     "filterType": "GMSprite",
     "folderName": "sprites",

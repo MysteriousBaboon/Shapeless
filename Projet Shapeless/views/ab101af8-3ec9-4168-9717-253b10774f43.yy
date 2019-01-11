@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 87e9aa3... Merge branch 'master' of https://github.com/MysteriouBaboon/Shapeless
 {
     "id": "ab101af8-3ec9-4168-9717-253b10774f43",
     "modelName": "GMFolder",
@@ -13,6 +16,7 @@
     "folderName": "Walls",
     "isDefaultView": false,
     "localisedFolderName": ""
+<<<<<<< HEAD
 =======
 {
     "id": "ab101af8-3ec9-4168-9717-253b10774f43",
@@ -29,4 +33,6 @@
     "isDefaultView": false,
     "localisedFolderName": ""
 >>>>>>> parent of 22a4ad2... p
+=======
+>>>>>>> parent of 87e9aa3... Merge branch 'master' of https://github.com/MysteriouBaboon/Shapeless
 }

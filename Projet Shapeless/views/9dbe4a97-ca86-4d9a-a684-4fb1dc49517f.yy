@@ -11,6 +11,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "9372120a-c7ab-43e8-91ae-bb5c7abd452c",
         "e110b6b2-58d0-4f26-8ecd-5d683178099b"
 =======
@@ -27,6 +28,9 @@
         "9372120a-c7ab-43e8-91ae-bb5c7abd452c",
         "e110b6b2-58d0-4f26-8ecd-5d683178099b"
 >>>>>>> parent of 22a4ad2... p
+=======
+        "9372120a-c7ab-43e8-91ae-bb5c7abd452c"
+>>>>>>> parent of 87e9aa3... Merge branch 'master' of https://github.com/MysteriouBaboon/Shapeless
     ],
     "filterType": "GMRoom",
     "folderName": "rooms",

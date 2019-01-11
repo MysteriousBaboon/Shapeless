@@ -1,0 +1,1 @@
+if(Attack == true )move_towards_point(Obj_Character.x,Obj_Character.y,1)

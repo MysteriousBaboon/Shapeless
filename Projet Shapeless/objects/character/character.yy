@@ -1,0 +1,91 @@
+{
+    "id": "cda4e315-97b8-4e9d-9582-c61239e5f354",
+    "modelName": "GMObject",
+    "mvc": "1.0",
+    "name": "character",
+    "eventList": [
+        {
+            "id": "37219165-223e-4a97-aa5f-60c29c4dafec",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "cda4e315-97b8-4e9d-9582-c61239e5f354"
+        },
+        {
+            "id": "9011c1a0-5494-47fd-a921-63e73448944a",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "cda4e315-97b8-4e9d-9582-c61239e5f354"
+        }
+    ],
+    "maskSpriteId": "00000000-0000-0000-0000-000000000000",
+    "overriddenProperties": null,
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "persistent": false,
+    "physicsAngularDamping": 0.1,
+    "physicsDensity": 0.5,
+    "physicsFriction": 0.2,
+    "physicsGroup": 0,
+    "physicsKinematic": false,
+    "physicsLinearDamping": 0.1,
+    "physicsObject": false,
+    "physicsRestitution": 0.1,
+    "physicsSensor": false,
+    "physicsShape": 1,
+    "physicsShapePoints": null,
+    "physicsStartAwake": true,
+    "properties": [
+        {
+            "id": "c44ecedc-ae33-4cfe-a1d8-24a062c8126c",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": true,
+            "rangeMax": 3,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "3",
+            "varName": "hp",
+            "varType": 1
+        },
+        {
+            "id": "7cc89297-dcdd-4960-8e5d-6b82321f09cf",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "invincibility",
+            "varType": 3
+        },
+        {
+            "id": "18ea4935-de97-4d85-80f8-dc27c4213b2e",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "True",
+            "varName": "isAlive",
+            "varType": 3
+        }
+    ],
+    "solid": true,
+    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "visible": true
+}

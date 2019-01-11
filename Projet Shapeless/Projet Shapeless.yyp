@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "1b5907f5-f355-47e0-a08c-df978b77f451",
+            "Value": {
+                "id": "6ee805f8-3355-4b5f-a0b8-de92421231d8",
+                "resourcePath": "views\\1d8af89e-a6ff-491b-8921-a69abc5e7c0c-room.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "1c059873-7946-4d4f-957b-53786bb94289",
             "Value": {
                 "id": "c23ad939-fd1b-4a27-aa1c-c1a6170be735",
@@ -857,7 +865,10 @@
                 "id": "7eb91cd7-15b4-4baf-90fe-0cc086cd2c82",
                 "resourcePath": "views\\9dbe6aa0-af19-4b68-a311-e9124a8380c0.yy",
                 "resourceType": "GMFolder"
+<<<<<<< HEAD
 >>>>>>> parent of 87e9aa3... Merge branch 'master' of https://github.com/MysteriouBaboon/Shapeless
+=======
+>>>>>>> parent of e024162... block + room
             }
         },
         {
